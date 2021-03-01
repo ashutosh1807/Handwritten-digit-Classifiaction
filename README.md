@@ -16,9 +16,8 @@ In this assignment, we are supposed to identify a mobile no from a filled form. 
 3. https://github.com/PAN001/MNIST-digit-sequence-recognition
 4. https://www.diva-portal.org/smash/get/diva2:1293077/FULLTEXT02.pdf
 5. http://petr-marek.com/blog/2017/07/05/sequence-digits-recognition/
-6. https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6)
-7. [https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6](https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6)
-8. https://sajalsharma.com/portfolio/digit_sequence_recognition
-9. [https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)
-10. [https://arxiv.org/abs/1507.05717](https://arxiv.org/abs/1507.05717)
+6. [https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6](https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6)
+7. https://sajalsharma.com/portfolio/digit_sequence_recognition
+8. [https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)
+9. [https://arxiv.org/abs/1507.05717](https://arxiv.org/abs/1507.05717)
 
