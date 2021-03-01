@@ -10,7 +10,7 @@ In this assignment, we are supposed to identify a mobile no from a filled form. 
 #### Full Sequence Class
 <code> python sequential.py </code>
 
-###References
+#### References
 1. https://medium.com/analytics-vidhya/improving-accuracy-using-deep-learning-for-fashion-mnist-d7a3516af347
 2. https://towardsdatascience.com/going-beyond-99-mnist-handwritten-digits-recognition-cfff96337392
 3. https://github.com/PAN001/MNIST-digit-sequence-recognition
@@ -19,8 +19,6 @@ In this assignment, we are supposed to identify a mobile no from a filled form. 
 6. https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6)
 7. [https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6](https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6)
 8. https://sajalsharma.com/portfolio/digit_sequence_recognition
-9. https://sajalsharma.com/portfolio/digit_sequence_recognition
-10. https://sajalsharma.com/portfolio/digit_sequence_recognition
-11. [https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)
-12. [https://arxiv.org/abs/1507.05717](https://arxiv.org/abs/1507.05717)
+9. [https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)
+10. [https://arxiv.org/abs/1507.05717](https://arxiv.org/abs/1507.05717)
 
